@@ -9,7 +9,7 @@ streamlit
 langchain-fireworks
 einops
 python-dotenv
-openai>=1.0.0
+openai==0.28.0
 flask
 waitress
 requests
