@@ -1,9 +1,15 @@
 langchain
-pypdf
+pypdf2
+faiss-cpu
+tiktoken
 transformers
 sentence-transformers
 accelerate
-faiss-cpu
 streamlit
 langchain-fireworks
 einops
+python-dotenv
+openai>=1.0.0
+flask
+waitress
+requests
